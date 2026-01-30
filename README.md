@@ -12,4 +12,4 @@ The USPTO-70k dataset is publicly available and can be obtained at the following
 EPO data cannot be redistributed due to licensing restrictions.
 
 ## Reproducibility
-All experiments follow the protocol described in the paper.
+All experiments follow the protocol described in the paper. Each python file corresponds to one of the analyses presented. The names of the python files are self-explanatory.
