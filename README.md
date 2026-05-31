@@ -1,8 +1,8 @@
-# Encoder-Based Models vs Large Language Models for Patent Classification
+# Encoder-Based Models, Large Language Models and Hybrid Systems for Patent Classification
 
 This repository contains the code accompanying the paper:
 
-**“Large Language Models for Patent Classification: Strengths, Trade-offs, and the Long Tail Effect”**
+**“Large Language Models, Encoder Architectures and Hybrid Approaches for Patent Classification”**
 
 ## Overview
 We provide the core experimental code used to compare supervised encoder-based models and open-weight large language models for hierarchical, multi-label CPC patent classification.
