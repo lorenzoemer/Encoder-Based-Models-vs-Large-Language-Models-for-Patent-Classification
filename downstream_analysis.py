@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Post-hoc analysis of saved CPC predictions.
+Patentometric analysis of downstream consequences of different CPC classification models.
 
 The script measures section- and subclass-level F1, routed-subset gains,
 semantic breadth, normalized absolute count error, and country/assignee
