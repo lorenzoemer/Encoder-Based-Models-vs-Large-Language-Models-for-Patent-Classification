@@ -4,7 +4,7 @@ Patentometric analysis of downstream consequences of different CPC classificatio
 
 The script measures section- and subclass-level F1, routed-subset gains,
 semantic breadth, normalized absolute count error, and country/assignee
-rank displacement relative to gold CPC assignments.
+rank displacement relative to gold CPC assignments. 
 """
 
 import argparse
